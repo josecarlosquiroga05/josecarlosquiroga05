@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy José Carlos
 
-![Banner de bienvenida](https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Bienvenido+a+mi+Perfil+de+GitHub)
+![Banner de bienvenida](https://mallorcamusicmagazine.com/concierto/anuel-aa-hi-ibiza/text=Bienvenido+a+mi+Perfil+de+GitHub)
 
 ## 🚀 Sobre Mí
 
