@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy José Carlos
 
-![Banner de mi perfil](https://mallorcamusicmagazine.com/wp-content/uploads/Anuel-AA-FB-1.jpg)
+![Banner de bienvenida](https://mallorcamusicmagazine.com/wp-content/uploads/Anuel-AA-FB-1.jpgtext=Bienvenido+a+mi+Perfil+de+GitHub)
 
 
 ## 🚀 Sobre Mí
