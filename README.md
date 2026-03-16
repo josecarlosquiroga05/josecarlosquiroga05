@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy José Carlos
 
-![Banner de bienvenida](https://mallorcamusicmagazine.com/concierto/anuel-aa-hi-ibiza/text=Bienvenido+a+mi+Perfil+de+GitHub)
+![Banner de mi perfil](https://mallorcamusicmagazine.com/wp-content/uploads/Anuel-AA-FB-1.jpg)
+
 
 ## 🚀 Sobre Mí
 
